@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Diaporama</string>
+    <string name="preced">Précédent</string>
+    <string name="suivant">Suivant</string>
+    <string name="item">Item</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="timer">Timer</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="d_lais">Délais :</string>
+    <string name="apple">Apple</string>
+</resources>
